@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 智能修复老照片-黑白照上色
 
-You can use the [editor on GitHub](https://github.com/zyoungz/zy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+智能修复老照片是一款能够智能修复老旧照片的实用app，通过内置的ai算法，可以将老旧照片、模糊照片修复到比较良好的状态，同时还可以对黑白照片进行上色，让尘封许久的回忆添上一份色彩！
+#### 【亮点功能】
+1、老照片修复
+智能修复模糊的人像，风景等老旧照片！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2、黑白照片上色
+可以对黑白照片进行上色，使照片增添一抹色彩！
 
-### Markdown
+新产品刚上线，若有其他任何提意，请在应用内反馈功能反馈，我们会不断改进产品，给您更好的使用体验！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyoungz/zy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 【联系我们】
+支持邮箱：lijie_9874@126.com
